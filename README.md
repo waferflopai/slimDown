@@ -6,7 +6,7 @@
 
 ## What it does
 
-`slimDown` is a browser‑based tool that reduces the token count of natural‑language text (books, transcripts, reports, etc.) while preserving meaning. It applies a combination of filters – stopword removal, conjunction reduction, suffix crunching, Markdown compression, whitespace collapsing, numeric shorthand, and alias substitution – and optionally adds a decoder header for future expansion.
+`slimDown` is a browser‑based tool that reduces the token count of natural language text (books, transcripts, reports, etc.) while preserving meaning. It applies a combination of filters, stopword removal, conjunction reduction, suffix crunching, Markdown compression, whitespace collapsing, numeric shorthand, and alias substitution. Optionally adds a decoder header for future expansion.
 
 The result: **more text fits into your LLM’s context, you pay less per API call, and you can process longer documents without truncation.**
 

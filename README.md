@@ -68,8 +68,8 @@ The result: **more text fits into your LLM’s context, you pay less per API cal
 
 The tool is a standalone HTML file. You can download it, run it locally, or host it anywhere.
 
-**Repository:** [[GitHub link – place your repo URL here](https://github.com/waferflopai/slimDown/)]  
-**Live Demo:** [[Link to hosted version – e.g., GitHub Pages](https://slimdown.vercel.app/)]
+**Repository:** [(https://github.com/waferflopai/slimDown/)]  
+**Live Demo:** [(https://slimdown.vercel.app/)]
 
 ---
 
@@ -79,4 +79,4 @@ Open an issue or pull request if you have ideas, find bugs, or want to add new c
 
 ---
 
-*Made with ♥ by [waferflopai](https://waferflopai.vercel.app/)*
+*Made by [waferflopai](https://waferflopai.vercel.app/)*

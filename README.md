@@ -1,6 +1,16 @@
 # 🧠 slimDown – Semantic Token Compressor for LLM Context (v2.4)
 
-> **Maximize your LLM’s context window – compress prose by up to 55% with minimal semantic loss.**
+> **Maximize your LLM's context window – compress prose by up to 55% with minimal semantic loss.**
+
+---
+
+## What This Is (And Isn't)
+
+This is **lossy semantic compression** optimized for LLM consumption.
+
+- ✅ **Maximizes context efficiency** while preserving meaning  
+- ❌ **Not designed for storage** or exact reconstruction  
+- ❌ **Not for you if** you need to recover the original text 1:1
 
 ---
 

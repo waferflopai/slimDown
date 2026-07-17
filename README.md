@@ -1,4 +1,4 @@
-# 🧠 slimDown – Semantic Token Compressor for LLM Context (v2.4)
+# slimDown – Semantic Token Compressor for LLM Context (v2.4)
 
 > **Maximize your LLM's context window – compress prose by up to 55% with minimal semantic loss.**
 
